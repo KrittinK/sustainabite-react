@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sustainabite-react/static/css/main.fbb088d8.css",
+    "main.js": "/sustainabite-react/static/js/main.a41d22e7.js",
+    "index.html": "/sustainabite-react/index.html",
+    "main.fbb088d8.css.map": "/sustainabite-react/static/css/main.fbb088d8.css.map",
+    "main.a41d22e7.js.map": "/sustainabite-react/static/js/main.a41d22e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbb088d8.css",
+    "static/js/main.a41d22e7.js"
+  ]
+}
